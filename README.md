@@ -1,5 +1,4 @@
-**Projected OBP - Machine Learning Project**
-
+Projected OBP - Machine Learning Project
 ## Overview
 
 This project leverages machine learning to predict **On-Base Percentage (OBP)** for baseball players in the 2021 season using historical player statistics. By applying advanced data processing and Random Forest regression, this project offers an insightful approach to analyzing and forecasting player performance.
