@@ -54,6 +54,6 @@ This project is licensed under the MIT License. See `LICENSE` for more informati
 
 ## Author
 
-Developed by [E.J. Espinal](https://github.com/ejespinal2).
+Developed by [Elijah Espinal](https://github.com/ejespinal2).
 
 ---
